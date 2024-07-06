@@ -80,5 +80,56 @@ Support
 
 At last, you can ask for support or sponsorships by providing links or just add a simple message as
 
+Table
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| git status   |   git status   |    git status |
+| git diff     |    git diff    |      git diff |
+
+A hidden trick I give sometimes
+
+You can use variables in markdown or references as
+
+![alt text][id]
+[id]: /path/to/img.jpg "Title"
+
+
+Markdown features
+You can also you text styling as
+
+- **Bold**
+- _italics_
+- ~~Strike through~~
+
+    Their combination also works like **_Bold Italics_**
+
+Blockquote
+
+> This is a Blockquote
+
+Lists
+
+- Candy
+- Gum
+- Booze
+
+1.  Red
+2.  Green
+3.  Blue
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+Link
+
+Inline-style link: example link.
+Optionally, you may include a title attribute in the parentheses:example link. The title is a text that shows when you hover on an element.
+Images
+
+alt text
+
+
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
