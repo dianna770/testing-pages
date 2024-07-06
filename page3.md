@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: basic markdown (using a layout)
 description: This is just another page
 ---
 
