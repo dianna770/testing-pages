@@ -1,27 +1,3 @@
-
-Skip to content
-DEV Community
-Powered by
-Algolia
-Log in
-Create account
-Cover image for How to Write Stunning Github README.md [Template Provided]
-Rohit Jain
-Rohit Jain
-
-Posted on Apr 26, 2021 • Updated on Oct 14, 2021
-21 3
-How to Write Stunning Github README.md [Template Provided]
-#github
-#markdown
-#tutorial
-#githunt
-
-If you are here that means you want to create a stunning README.md for your Awesome Repos, So down below I'm going to show you some cool markdown tips (.md means markdown) Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
-
-Good Documentation is as much important as your project, because if you can't explain what your project does, how other can utilize it, then there is no mean of developing awesome projects.
-First let's go through the importance of a README.md file
-
     A README.md file is a guide that gives visitors a detailed description of your project. There is a lot of developers that developed awesome application but if you represent your project well than your project will have great impact, it will gain more.
     If someone visits your project repo then this is the file that will represent your project. So you should put some effort to make your README.md look good.
     You don't need to make always a new README.md. Just create a template and use that for all the projects.
