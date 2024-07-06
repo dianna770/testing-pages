@@ -1,3 +1,8 @@
+---
+layout: default
+title: markdown cheat sheet (using a layout)
+description: Learn how to use Markdown in your pages
+---
 # ⬇️ The Only Markdown Cheatsheet You Need
 
 _Here you can find & download PDF version of the Complete Markdown Cheatsheet.  
