@@ -1,5 +1,7 @@
 # testing-pages
 
+(a pages repo must be a public one)
+
 Jekyll converts each HTML or Markdown file in this repo to an HTML page.
 
 `page1.html` with no front matter produces [page1](https://dianna770.github.io/testing-pages/page1),
